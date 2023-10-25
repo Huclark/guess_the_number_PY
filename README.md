@@ -19,7 +19,7 @@ The only prerequisite is to clone this repo.
 1. Clone the repository:
 
    ```bash
-	https://github.com/Huclark/simple_shell.git
+	https://github.com/Huclark/guess_the_number_PY.git
 
 ## How to play
 1. Run the command: `python3 main.py`.
